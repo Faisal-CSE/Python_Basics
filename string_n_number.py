@@ -7,7 +7,7 @@ print(name.index('P')) #Index number of P
 print(name.lower())
 print(name.upper())
 print(name.isupper())
-print(name.replace("Faisal", "Sumi"))
+print(name.replace("Faisal", "MD"))
 
 
 num1 = 54
