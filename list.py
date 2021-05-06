@@ -2,7 +2,7 @@
 #List is mutable (means u can change value after assign)
 
 lucky_numbers = [14, 25, 64, 84, 59, 97]
-team_mates = ['Porag', 'Sumi', 'Sudipto', 'Zamal', 'Kamal', 'Kamal']
+team_mates = ['Porag', 'Jhon', 'Habu', 'Zamal', 'Kamal', 'Kamal']
 
 print(lucky_numbers)
 
@@ -29,7 +29,7 @@ team_mates.insert(2, 'Takrim')
 print(team_mates)
 
 #remove user from list
-team_mates.remove('Sudipto')
+team_mates.remove('Habu')
 print(team_mates)
 
 #same data count from list
